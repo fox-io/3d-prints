@@ -21,3 +21,5 @@
 	* 1x1 Gridfinity module which holds 8x USB-A thumbdrives, etc.
 * gridfinity-sd-card-1x1.f3d
 	* 1x1 Gridfinity module which holds 8x SD Cards.
+* gridfinity-pill-bottles-2x2.f3d
+	* 1x1 Gridfinity module which holds 4x standard pill bottles.
