@@ -15,3 +15,6 @@ Desk stand for use with Magsafe chargers.
 
 # gridfinity-batteries-aaa-1x1.f3d
 1x1 Gridfinity module which holds 6x AAA batteries.
+
+# gridfinity-batteries-cr2032-1x1.f3d
+1x1 Gridfinity module which holds 4x CR-2032 batteries.
