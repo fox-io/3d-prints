@@ -6,3 +6,6 @@ A non-permanent adapter for Scosche MagicMount to use Magsafe charging.
 
 # magnet-applicator-6mmx2mm.f3d
 6x2 single magnet applicator for Gridfinity systems. Don't forget to add a G-code pause to insert magnets!
+
+# magsafe-desk-stand.f3d
+Desk stand for use with Magsafe chargers.
