@@ -9,3 +9,6 @@ A non-permanent adapter for Scosche MagicMount to use Magsafe charging.
 
 # magsafe-desk-stand.f3d
 Desk stand for use with Magsafe chargers.
+
+# gridfinity-batteries-aa-1x2.f3d
+1x2 Gridfinity module which holds 10x AA Batteries.
